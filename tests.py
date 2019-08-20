@@ -1,5 +1,8 @@
-#jQuery para criar multiplos inputs
-#$("#col-box").append('<input type="text" name="nome" >');
+"""jQuery para criar multiplos inputs"""
+#$("#teste").click(function () {
+    #$("#col-box").append('<input type="text" name="nome" maxlength="100" >');
+#});
+"""Salva multiplos codigos em uma só linha separado por virgula"""
 if form.is_valid():
     # model que vai salvar os valores
     categoria_valor = Categoria()
